@@ -1,6 +1,8 @@
-# DEMO Project
+# Web应用项目 / Web Application Project
 
-A demonstration repository for modern web application development.
+一个采用现代开发实践和可扩展架构构建的全栈Web应用程序。
+
+A comprehensive full-stack web application built with modern development practices and scalable architecture.
 
 ## 🚀 Quick Start
 
