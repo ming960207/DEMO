@@ -1,6 +1,6 @@
-# Web Application Project
+# DEMO Project
 
-A comprehensive full-stack web application built with modern development practices and scalable architecture.
+A demonstration repository for modern web application development.
 
 ## 🚀 Quick Start
 
